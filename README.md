@@ -1,4 +1,4 @@
-# Restart_Gaussian
+# Restart
 
 * Restart.py is a program that is mainly developed to calculate Gaussian files automatically.
 
